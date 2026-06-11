@@ -1,5 +1,4 @@
-
-# 🎮 Hangman Game Challenge
+# 📘 Assignment: Hangman Game Challenge
 
 ## 🎯 Objective
 
